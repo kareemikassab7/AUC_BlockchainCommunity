@@ -1,4 +1,4 @@
-<img src= "MyDesigns.png">
+<img src= "MyDesigns.gif">
 <h3 align="center">A community welcoming anyone wanting to learn Blockchains in Arabic and English</h3>
 
 - 🌱 our Activities **Weekly Meetups, Lectures, Tutorials, Discussions**
