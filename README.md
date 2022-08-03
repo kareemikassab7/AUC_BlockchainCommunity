@@ -1,12 +1,16 @@
 <img src= "MyDesigns.gif">
 <h3 align="center">A community welcoming anyone wanting to learn Blockchains in Arabic and English</h3>
 
-- 🌱 our Activities **Weekly Meetups, Lectures, Tutorials, Discussions**
-- 📫 Reach our Community Leader **Kareemikassab@aucegypt.edu**
+- 🌱 our Activities: 
+<br>o BiWeekly Meetups
+<br>o Lectures 
+<br>o Tutorials 
+<br>o Discussions
+- 📫 Reach out to our Community Leader **Kareemikassab@aucegypt.edu**
 
 <h3 align="left">Join Discord:</h3>
 <p align="left">
-<a href="https://discord.gg/DKFy7kbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DKFy7kbg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DKFy7kbg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
