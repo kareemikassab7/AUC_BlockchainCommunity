@@ -1,4 +1,3 @@
-<h1 align="center">Hello! We Are AUC's Blockchain Community</h1>
 <img src= "MyDesigns.png">
 <h3 align="center">A community welcoming anyone wanting to learn Blockchains in Arabic and English</h3>
 
