@@ -1,12 +1,52 @@
 <img src= "MyDesigns.gif">
-<h3 align="center">A community welcoming anyone wanting to learn Blockchains in Arabic and English</h3>
+<h3 align="center">A community welcoming anyone  wanting to learn Blockchains in Arabic and English  😁</h3>
 
-- 🌱 our Activities: 
+<hr>
+
+<h2>🌱 our Activities:</h2> 
 <br>o BiWeekly Meetups
 <br>o Lectures 
 <br>o Tutorials 
 <br>o Discussions
-- 📫 Reach out to our Community Leader **Kareemikassab@aucegypt.edu**
+
+<hr>
+<h4> 🤝 We are open to collaborations. if you want to lend a hand please Reach Out !</h4>
+📫 Reach out to our Community Leader **Kareemikassab@aucegypt.edu**
+
+<hr>
+<h3> 👀 Have a Sneak Peak On Fall22 Topics & materials in the making </h3>
+
+G1
+- What is a Function
+- What is a hash function
+- What is a ledger
+- What is a Distributed Ledger Technologies (DLT)
+- What is a Blockchain
+
+G2
+- What is Bitcoin
+- What is Ethereum
+
+G3
+- Promising Startup Usages
+- Oppurtunities in the Web3 Space
+
+G4
+- Technical Tutorial: Solidity Assignment 1 (Keywords, Variable types, modifiers, events)
+- Technical Tutorial: Solidity Assignment 2 (Functions, classes)
+
+G4
+- Technical Tutorial: Introduction to Meta Mask 
+- Technical Tutorial: Introduction to Truffle
+
+G5
+- What is a Token + applications + simple contract
+
+G6
+- What is an NFT + applications + simple contract
+
+G7-G10
+- Technical Tutorial: Building a full stack ethereum Dapp with simple front end
 
 <h3 align="left">Join Discord:</h3>
 <p align="left">
