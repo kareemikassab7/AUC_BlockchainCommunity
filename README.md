@@ -1,4 +1,4 @@
-<img src= "MyDesigns.gif">
+<img src= "Summer_Banner.gif">
 <h3 align="center">A community welcoming anyone  wanting to learn Blockchains in Arabic and English  😁</h3>
 
 <hr>
