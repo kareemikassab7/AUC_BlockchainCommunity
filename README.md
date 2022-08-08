@@ -50,7 +50,7 @@ G7-G10
 
 <h3 align="left">Join Discord:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DKFy7kbg" height="30" width="40" /></a>
+<a href="https://discord.gg/DKFy7kbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DKFy7kbg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
