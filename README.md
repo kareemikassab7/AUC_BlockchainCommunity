@@ -12,7 +12,7 @@
 <br>o New Discussions
 <hr>
 <h4> 🤝 We are open to collaborations. if you want to lend a hand please Reach Out !</h4>
-📫 Reach out to our Community Leader **Kareemikassab@aucegypt.edu**
+📫 Reach out to our Community Leader <b>Kareemikassab@aucegypt.edu </b>
 
 <hr>
 <h3> 👀 Have a Sneak Peak On Fall22 Topics & materials in the making </h3>
